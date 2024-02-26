@@ -1,0 +1,1 @@
+No todos estan dispuestos a cambiar. Especialmente los cambios que son drasticos
