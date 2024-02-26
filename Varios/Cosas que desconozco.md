@@ -1,0 +1,5 @@
+- Leerme las secuencias de Eliezer Yudkowsky
+- Aprender a ver peliculas de mas de 2 horas sin distraerme.
+	- Esto si puedo, pero soy inconsistente. Verlo en el computador es más dificil por que hago context-switching.
+- [Entender a hacer mejor documentación con el framework de Diataxis](https://diataxis.fr/)
+- Terminar de aprender programación funcional: decidirme por el libro de SICP o el curso de MIT adaptadado para Javascript.

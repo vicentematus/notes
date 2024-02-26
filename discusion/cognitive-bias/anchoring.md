@@ -1,0 +1,1 @@
+Es cuando en un argumento el primer pedazo de información es el que afecta los demas pensamientos. 
