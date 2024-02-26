@@ -1,0 +1,2 @@
+
+- Cal Newport es el autor popular del libro Deep Work que trajo revivió el concepto de lo que es el deep focus, attention leak  o [context switching](https://calnewport.com/deep-habits-the-danger-of-pseudo-depth/).
