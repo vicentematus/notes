@@ -1,5 +1,6 @@
 - Leerme [las secuencias de Eliezer Yudkowsky](https://www.lesswrong.com/highlights)
 - Embeddings.
+- Programar mas.
 - Aprender a ver peliculas de mas de 2 horas sin distraerme.
 	- Esto si puedo, pero soy inconsistente. Verlo en el computador es más dificil por que hago [[Context Switch]].
 - [Entender a hacer mejor documentación con el framework de Diataxis](https://diataxis.fr/)

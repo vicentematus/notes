@@ -1,4 +1,7 @@
-## Sobre Arc Institute(non profit lab)
+[Entrevista que realizó Dwarkest Patel al CEO de Stripe](https://youtu.be/WU-lBOAS1VQ)
+
+## Notas
+### Sobre Arc Institute(non profit lab)
 
 - Patrick menciona el libro de Apprentice to Genius, el cual habla de como distintas generaciones de científicos son capaces de mentorear gente exitosa.
 	- Los científicos deberían buscar la gradiente de mayor aprendizaje. Aprender lo más posible. 

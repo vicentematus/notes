@@ -1,0 +1,1 @@
+[Andrew Huberman en su entrevista con David Goggins ](https://www.youtube.com/clip/UgkxTaNLz01y7DHLZO2Pa9MIOz8-MQO-acla) menciona mientras mas cosas dificiles hagas (que realmente te incomoden, tiene que ser dificil) tu anterior midcingulate cortex (area del cerebro vinculada a la fuerza de voluntad) "crece". TL;DR mientras mas cosas dificiles hagas, mayor fuerza de voluntad.
