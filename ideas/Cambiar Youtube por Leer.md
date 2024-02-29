@@ -1,0 +1,1 @@
+He sentido una mayor paz. Me puedo concentrar más.

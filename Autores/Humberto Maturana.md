@@ -1,0 +1,3 @@
+Resumen: Biologo Chileno, trabajo en el MIT, trae ideas de la biologia con la filosofia, propone la sociedad como seres que trabajan en conjunto en vez de competir por los recursos (haciendo analogias con la naturaleza: que trabajan en conjunto parar lograr la armonia.)
+
+Leyendo [*La Revolución Reflexiva*](https://www.planetadelibros.cl/autor/ximena-davila/000052851) de[ Humberto Maturana](https://es.wikipedia.org/wiki/Humberto_Maturana) con [Ximena Dávila](https://www.planetadelibros.cl/autor/ximena-davila/000052851).

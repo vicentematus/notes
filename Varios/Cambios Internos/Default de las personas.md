@@ -1,10 +1,10 @@
-Cosas que son tan obvias para ciertos mundos mentales, pero para otros no. 
+Cosas que son obvias para ciertos mundos mentales, pero para otros no. 
 
 La gente que es atea contra los religiosos.
 
 La gente que piensa siempre que esta en lo correcto es dificil hacerla cambiar de opinion (por no decir imposible). 
 
-Personas que odian las matemáticas por que su profesor/a era pésimo, mientras que otras las aman. 
+Personas que odian las matemáticas, mientras que otras las aman. 
 
 Un niño que crece en un ambiente abusivo afecta su desarrollo cognitivo versus el niño que crecio en una familia estable.
 

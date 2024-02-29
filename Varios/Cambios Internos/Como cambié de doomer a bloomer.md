@@ -8,21 +8,8 @@ Fue el conjunto de experiencias positivas: conseguir práctica en [Platanus](htt
 
 Empezar a trabajar en MACH me dió otro refuerzo positivo de mis habilidades. Literal fue un vivir un sueño otra vez. No tener dinero (sin contar el que me daba mi mamá) a poder comprar cosas para la casa es un sentimiento inexplicable.
 
-Mediante intervención psicologica y journaling extensivo pude mejorar la imagen de mi mismo. Pero es un proceso bastante lento. Tiene que ser día a día. Hay que estar en soledad y hacer una introspección de si mismo. Es complicado saber que estas  o actuaste mal.
+Mediante intervención psicologica y journaling extensivo pude mejorar la imagen de mi mismo. Pero es un proceso bastante lento. Tiene que ser día a día. Hay que estar en soledad. Hacer una introspección de si mismo. Integrar la sombra. Es complicado saber que estas  o actuaste mal.
 
-Conocer gente bacán como: 
-- A mi mamá.
-- Mi amigo Martín que me dió el empujón para poder empezar a tener un proposito.
-- La Jesús (aceptame en LinkedIn!!) que me entrevistó por primera vez para Platanus.
-- El Rai y Leonardo que me dió su permiso por recomendarme con MACH.
-- Mi profe Vidal por ayudarme a aprobar la tesis.
-- Feña por darme la confianza en creer en mis habilidades y aprender un montón.
-- Agus por enseñarme cosas tech que van mas allá.
-- La Dani que me realizó la entrevista para MACH.
-- Nico que me hizo la prueba de algoritmos ([use Bun jeje](https://bun.sh/)). 
-- Coni mi manager que me ayudó a mejorar mis skills blandos y ver mas allá de lo técnico
-- Gonza por explicarme lo que es la arquitectura y mejorar mi calidad de dev. 
-- Rodrigo mi psicologo por ayudarme a entender mi inconsciente.
 
 Puedo seguir nombrando gente pero voy a romper el teclado. Hay mas actores involucrados. Si no estas, don´t feel bad. Soy agradecido de todas maneras.
 
