@@ -1,13 +1,5 @@
-Es lo mas sano para la mente.
+Es lo mas sano para la mente. No existe una maquina del tiempo para volver atrás.
 
-`aferrarse del pasado es un mundo falso.` 
-`puedes revolcarte en él.`
-`sentirte bien.`
-`por un rato.`
-`abres los ojos.
-`no existe.`
-`la vida sigue.`
-`no existen las máquinas del tiempo.`
 
 
 
