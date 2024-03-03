@@ -9,5 +9,5 @@ Este repositorio contiene mis notas personales en markdown sobre los distintos t
 
 ## Agradecimientos
 
-[Inspirado por el trabajo de Andy Matuschak](https://andymatuschak.org/), al igual que su consejo que me dió por email: "*Just get started!” is very powerful here!*" ([gracias  @agucova por mostrarmelo](https://github.com/agucova))
+[Inspirado por el trabajo de Andy Matuschak](https://andymatuschak.org/). Al igual que su consejo que me dió cuandio le pregunté si debía empezar a tomar notas por email: "*Just get started!” is very powerful here!*".  Gracias [@agucova](https://github.com/agucova) por mostrarme su trabajo.
 
