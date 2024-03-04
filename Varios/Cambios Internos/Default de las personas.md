@@ -1,8 +1,7 @@
 ---
-draft: "false"
 tags:
   - ideas
-  - draft
+  - progress
 ---
 ![[Pasted image 20240303222106.png|700x500]]
 Richard Nixon apuntando el dedo a Nikita Khruschev. [Foto por Elliot Erwitt.](https://www.magnumphotos.com/newsroom/politics/elliott-erwitt-behind-the-image-the-kitchen-debate/)

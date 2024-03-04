@@ -3,7 +3,7 @@
 
 Es difícil saber que no tienes un camino en la vida a ser una persona con proposito. 
  
-Si le diera consejos a mi yo antiguo (doomer), le hubieran entrado por un oido y salido por el otro (por que así fue). Mis amigos me daban consejos pero nunca me hacia click. Buscaba ayuda pero nunca la tomaba en cuenta. Cambiar el [[Default de las personas]] es difícil.
+Si le diera consejos a mi yo antiguo (doomer), le hubieran entrado por un oido y salido por el otro (por que así fue). Mis amigos me daban consejos pero nunca me hacia click. Buscaba ayuda pero nunca la tomaba en cuenta. Cambiar el [[Default de las personas]]
 
 *En progreso, me falta una parte importante acá. [Te recomiendo ver la presentación](https://docs.google.com/presentation/d/1UiPcVMRNiXyKvZCWVaZLnkx6R7XtfzwY8nQ776uYOEk/edit?usp=sharing) para un resumen general.*
 
