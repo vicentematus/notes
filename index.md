@@ -3,7 +3,7 @@ title: Sobre estas notas
 ---
 Hola! soy [Vicente Matus](https://www.vicentematus.cl/). Estás viendo mis notas.
 
-[Estas notas principalmente son escritas para mí:](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z5E5QawiXCMbtNtupvxeoEX) son una forma de expresar mi estudio o pensamientos de distintos temas. Está en progreso por lo que hay notas incompletas. Las estoy haciendo públicas ya que necesitaba poder expresar mis ideas al internet.
+[Estas notas principalmente son escritas para mí:](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX) son una forma de expresar mi estudio o pensamientos de distintos temas. Está en progreso por lo que hay notas incompletas. Las estoy haciendo públicas ya que necesitaba poder expresar mis ideas al internet.
 
 Puedes ver lo último que estoy estudiando/ensayos:  
 - Te recomiendo empezar por este: [[Como cambié de doomer a bloomer]]
