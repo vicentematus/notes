@@ -6,3 +6,13 @@ Entre todo el caos de los precios de las papas 🥔, fue cuando mi amigo me dijo
 
 Pero para la gente era una verdad absoluta. Rumoreaba que todo estaba escaso. Cuando en la realidad no era así.
 
+Puede sonar un ejemplo vago, pero puedes llevarlo más allá. La percepción del mundo  se convierte en nuestra realidad[^1]. 
+
+Cuando nos dicen que no podemos lograr las cosas asumimos que es verdad, o las opiniones de los demás. 
+
+*¿Que pasa si todo es una mentira?*
+
+
+	
+
+[^1]: Eduardo Bonvallet lo menciona en una entrevista: https://youtu.be/qR4AwcOsA8M
