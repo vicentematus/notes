@@ -8,9 +8,10 @@ Pero para la gente era una verdad absoluta. Rumoreaba que todo estaba escaso. Cu
 
 Puede sonar un ejemplo vago, pero puedes llevarlo más allá. La percepción del mundo  se convierte en nuestra realidad[^1]. 
 
-Cuando nos dicen que no podemos lograr las cosas asumimos que es verdad, o las opiniones de los demás. 
+Cuando nos dicen que no podemos lograr las cosas asumimos que es verdad, o las opiniones de los demás. Asumimos que es verdad. 
 
-*¿Que pasa si todo es una mentira?*
+Cuestionarse las cosas es una herramienta importante que tenemos.
+
 
 
 	
