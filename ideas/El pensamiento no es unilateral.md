@@ -1,3 +1,9 @@
+---
+draft: "false"
+tags:
+  - ideas
+  - draft
+---
 
 ![[Pasted image 20240229021520.png]]
 

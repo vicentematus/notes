@@ -4,4 +4,4 @@
 - El tiempo., dinero y esfuerzo nos da una sensacion de como puede afectar la arquitectura a este. No solo la arquitectura llena la necesidad de los usuarios y desarrolardores, pero tambien es consistente a traves del tiempo. Quote:   “Architecture represents the significant design decisions that shape a system, where significant is measured by cost of change.”  
 - Que tan costoso sea cambiar algo depende de la arquitectura
 
-  
+  [[index]]
