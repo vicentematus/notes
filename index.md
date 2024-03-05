@@ -9,6 +9,7 @@ Puedes ver lo último que estoy estudiando/ensayos:
 - Te recomiendo empezar por este: [[Como cambié de doomer a bloomer]]
 - [[Default de las personas]]
 - [[Shallow vs Deep Knowledge]]
+-  [[El pensamiento no es unilateral]]
 - [[Cosas que desconozco]]
 - [[Después del miedo esta la recompensa]]
 - [[Patrick Collison (Stripe CEO) - Craft, Beauty, & The Future of Payments]]
