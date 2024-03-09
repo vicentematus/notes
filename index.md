@@ -8,6 +8,7 @@ Hola! soy [Vicente Matus](https://www.vicentematus.cl/). Estás viendo mis notas
 Puedes ver lo último que estoy estudiando/ensayos:  
 - Te recomiendo empezar por este: [[Como cambié de doomer a bloomer]]
 - [[Default de las personas]]
+- [[Elige tus batallas]]
 - [[Shallow vs Deep Knowledge]]
 -  [[El pensamiento no es unilateral]]
 - [[Cosas que desconozco]]

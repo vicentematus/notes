@@ -10,10 +10,8 @@ Puede sonar un ejemplo vago, pero puedes llevarlo más allá. La percepción del
 
 Cuando nos dicen que no podemos lograr las cosas asumimos que es verdad, o las opiniones de los demás. Asumimos que es verdad. 
 
+
 Cuestionarse las cosas es una herramienta importante que tenemos.
 
-
-
-	
 
 [^1]: Eduardo Bonvallet lo menciona en una entrevista: https://youtu.be/qR4AwcOsA8M
