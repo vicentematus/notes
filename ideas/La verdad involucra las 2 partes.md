@@ -3,7 +3,7 @@
 
 1 + 1 es igual a 2 es una verdad absoluta. 
 
-Ojala en las discusiones llegaramos a un acuerdo de la misma forma. Pero no es así. Hay personas con opiniones, con sentimientos o son resistentes al cambio. 
+Ojala en las discusiones llegaramos a un acuerdo de la misma forma. Pero no es así. Hay  opiniones distintas, gente con sentimientos o son resistentes al cambio. 
 
 En la mayoria de discusiones la gente no cambia de opinión
 

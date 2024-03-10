@@ -16,6 +16,7 @@ Puedes ver lo último que estoy estudiando/ensayos:
 - [[Patrick Collison (Stripe CEO) - Craft, Beauty, & The Future of Payments]]
 - [[Steve Job - Walter Isaacson]] 
 - [[Clean Architectura Notas]]
+- [[On Writing Well - William Zinsser]]
 - [[Hacer valer tu trabajo]]
 - [[Si estas bloqueado, pregunta!]]
 

@@ -6,7 +6,7 @@
 - Una observación importante que tuvo era que en el campo donde el estaba vió como una vaca tenia una cría. La cual esta se levantó y empezó a caminar instantaneamente.
 	- Menciona que le impresionara que naciera con la habilidad de caminar en vez de tener que aprenderlo mecanicamente. Puede ser una de las ideas principales de la UX que tiene Apple.
 - En sus ultimos anios de secundaria empezo a tener intees por el cruce creativo entre la tecnologia y el disenio:
-	- Comence a escuchar mas musica y empeze a leer mas cosas que no tuvieran que ver con la ciencia o la tecnologia (Shakespeare, Platon). Me encataba el Rey Lea.... Otras obras favoritas eran Moby Dick y los poemas de Dylan Thomas. ... Se sentia atraido por el Rey Lea y el personaje capitan Ahab... no respondio el porque de la conexion.
+	- Comence a escuchar mas musica y empeze a leer mas cosas que no tuvieran que ver con la ciencia o la tecnologia (Shakespeare, Platon). Me encantaba el Rey Lea.... Otras obras favoritas eran Moby Dick y los poemas de Dylan Thomas. ... Jobs se sentia atraido por el Rey Lea y el personaje capitan Ahab...
 - Comenzo a experimentarmente fuertemente con las drogas a los 15 anios con la marihuana. Ya que tenia conexiones con gente de la contracultura (hippies, junkies).
 
 ## Capitulo 2 - Wozniak
@@ -21,5 +21,6 @@
 - Wozniak y Jobs experimentaron con estas bluebox para hacer bromas telefonicas, llamaron al Vaticano haciendose pasar como Henry Kissinger. Wozniak dice:
   >I called only to explore the phone company as a system, to learn the codes and tricks. I'd talk to the [London](https://en.wikipedia.org/wiki/London "London") operator, and convince her I was a New York operator. When I called my parents and my friends, I paid. After six months I quit—I'd done everything that I could.
 
-I was so pure. Now I realize others were not as pure, they were just trying to make money. But then I thought we were all pure.
+Wozniak/Jobs menciona (?)
+> I was so pure. Now I realize others were not as pure, they were just trying to make money. But then I thought we were all pure.
 - 
