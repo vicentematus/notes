@@ -1,3 +1,4 @@
+Editorial Debolsillo
 - Steve tenia un gran interes por la electronica de pequenia edad. 
 - Tuvo una realización cuan do era pequenio que era mas inteligente que sus padres.
 	- Esto llevo a que como era mas inteligente que sus pares, se aburriera en clases.
@@ -23,4 +24,19 @@
 
 Wozniak/Jobs menciona (?)
 > I was so pure. Now I realize others were not as pure, they were just trying to make money. But then I thought we were all pure.
-- 
+
+### Cap 3 - Abandono de los estudios
+
+- Jobs  conoce su novia [Chrisann Brennan](https://en.wikipedia.org/wiki/Chrisann_Brennan). Habia harta influencia de la cultura hippie/contracultura en ese epoca.
+- Conoce a [Robert Friedland ](https://en.wikipedia.org/wiki/Robert_Friedland) figura importante para Jobs.
+	- Era una figura espiritual para Jobs. El lo influyo en el viaje a la India que realizo.
+	- También lo ayudó a *salir del cascarón*, Kottke menciona:
+	  > Cuando conocí a Steve, él era un chico tímido y retraído, muy reservado. Creo que Robert le enseñó a lucirse, a salir del cascarón, a abrirse y controlar las situaciones». Friedland proyectaba un aura de alto voltaje. «Entraba en una habitación y te dabas cuenta al instan-te. Steve era exactamente lo contrario cuando llegó a Reed. Tras pasar algo de tiempo con Robert, parte de su carácter comenzó pegársele». ( Isaacson, 2011, p. 66)
+	  
+- Jobs y varios amigos más de la comunidad hippie fueron a trabajar a un campo de Friedland.
+	-  Jobs una vez se quedo escondido en la cocina una noche, para darse cuenta de que la gente se levantaba en la noche a robar comida del refrigerador.
+	- Se supone que era una especie de retiro espiritual, pero Jobs se dio cuenta de Friedland estaba aprovechándose para poder vender los frutos del campo.
+- Pero mas adelante a Jobs se decepciono[^1]:
+  >Añadió que cuando Friedland se había visto en apuros por una serie de delitos ecológicos perpetrados en algunas de sus minas, había tratado de ponerse en contacto con él para pedirle que intercediera ante Bill Clinton, pero Jobs no había respondido a la llamada. «Robert siempre se presentaba como una persona espiritual, pero cruzó la línea que separa al hombre carismático del estafador —afirmó Jobs—. Es muy extraño que una de las personas más espirituales de tu juventud acabe resultando ser, tanto de forma simbólica como literal, un buscador de oro». (Isaacson, 2011, p.67)
+  
+[^1]: [[¿Que pasa si todo es una mentira?]] 
