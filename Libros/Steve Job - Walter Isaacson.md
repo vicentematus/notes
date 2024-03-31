@@ -36,7 +36,15 @@ Wozniak/Jobs menciona (?)
 - Jobs y varios amigos más de la comunidad hippie fueron a trabajar a un campo de Friedland.
 	-  Jobs una vez se quedo escondido en la cocina una noche, para darse cuenta de que la gente se levantaba en la noche a robar comida del refrigerador.
 	- Se supone que era una especie de retiro espiritual, pero Jobs se dio cuenta de Friedland estaba aprovechándose para poder vender los frutos del campo.
-- Pero mas adelante a Jobs se decepciono[^1]:
-  >Añadió que cuando Friedland se había visto en apuros por una serie de delitos ecológicos perpetrados en algunas de sus minas, había tratado de ponerse en contacto con él para pedirle que intercediera ante Bill Clinton, pero Jobs no había respondido a la llamada. «Robert siempre se presentaba como una persona espiritual, pero cruzó la línea que separa al hombre carismático del estafador —afirmó Jobs—. Es muy extraño que una de las personas más espirituales de tu juventud acabe resultando ser, tanto de forma simbólica como literal, un buscador de oro». (Isaacson, 2011, p.67)
-  
+- Pero mas adelante a Jobs se decepciono de alguién que admiraba tanto[^1]  [^2]:
+	>Añadió que cuando Friedland se había visto en apuros por una serie de delitos ecológicos perpetrados en algunas de sus minas, había tratado de ponerse en contacto con él para pedirle que intercediera ante Bill Clinton, pero Jobs no había respondido a la llamada. «Robert siempre se presentaba como una persona espiritual, pero cruzó la línea que separa al hombre carismático del estafador —afirmó Jobs—. Es muy extraño que una de las personas más espirituales de tu juventud acabe resultando ser, tanto de forma simbólica como literal, un buscador de oro». (Isaacson, 2011, p.67) 
+- Asistió a una clase de caligrafia el cual lo inspiro a la creacion de multiples tipografias en los computadores [^3]:
+	> Ese era otro ejemplo más de cómo Jobs se situaba conscientemente en la intersección entre el arte y la tecnología. En todos sus productos, la tecnología iba unida a un gran diseño, una imagen, unas sensaciones, una elegancia, unos toques humanos e incluso algo de poesía. Fue uno de los primeros en promover interfaces gráficas de usuario sencillas de utilizar. En ese sentido, el curso de caligrafía resultó ser icónico. «De no haber asistido a esa clase de la universidad, el sistema operativo Mac nunca habría tenido múltiples tipos de letra o fuentes con espaciado proporcional. Y como Windows se limitó a copiar el Mac, es probable que ningún ordenador personal los tuviera». (Isaacson, 2011, p.69)
+- Jobs termina con una reflexión: 
+	 >  Aquello reforzó mi convicion de lo que era realmente importante: grandes creaciones en lugar ganar dinero, devolver tantas cosas al curso de la historia y de la consciencia humana como me fuera posible». (Isaacson, 2011, p.70)  
+
+
+
 [^1]: [[¿Que pasa si todo es una mentira?]] 
+[^2]: Steve Jobs' College Mentor Was A Drug Dealer Turned Billionaire Mining Magnate, Business Insider. https://www.businessinsider.com/steve-jobs-robert-friedland-2011-10
+[^3]: [[El pensamiento no es unilateral]]

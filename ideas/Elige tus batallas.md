@@ -20,12 +20,14 @@ Estas siendo clasificado con alguna definición por un grupo de gente? como: ere
 
 
 
+*DISCLAIMER: Estos ejemplos no representan mi opinión, es solo un ejercicio.**
+
 Como lo veo: por ejemplo si te tachan de manera negativa como *Capitalista* puedes decir: *todas las personas deberian tener acceso a las riquezas[^1] que nos entrega el mundo para tener un mejor bienestar de vida*. Escapaste de la definicion promedio.
 
 Si te tachan como *Comunista*  subele un nivel de abstraccion diciendo: *deberiamos velar por una mayor calidad de vida para los trabajadores de las minas de Africa*. Escapas de la definición casual y vas para un tema mas sensible.[^2]
 
 Te escapas de lo que te encasillaban subiendo un nivel de abstracción, y usando palabras bonitas como eufemismos[^3].
 
-[^1]: De forma equilibrada sin dañar al ecosistema y respetando el equilibrio biologico como diría Humberto Maturana [[Humberto Maturana]]
+[^1]: De forma equilibrada sin dañar al ecosistema y respetando el equilibrio biologico como diría [[Humberto Maturana]]
 [^2]: Viste que ambas opiniones del Capitalista y el Comunista son compatibles? [[El pensamiento no es unilateral]]
 [^3]: El uso del lenguaje forma realidades.
