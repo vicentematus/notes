@@ -4,6 +4,6 @@ Por primera vez lo hice el año 2023 por LinkedIn, y tuve la oportunidad de cons
 
 
 Puedes pensar que no vale la pena o que no te van a responder, pero:
-- Hasta[ Roberto Bolaño dudaba si le iban a responder una carta]()
+- Hasta[ Roberto Bolaño dudaba si le iban a responder una carta](https://youtube.com/clip/UgkxkIQ4SRYhYl0zAS34EU5E-pglMlVGwz0u?si=tl3freRp7MX-Y-yL)
 
 [^1]: Gracias Feña por la ayuda.
