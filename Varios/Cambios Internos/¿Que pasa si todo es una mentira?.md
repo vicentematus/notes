@@ -1,4 +1,3 @@
-![[Pasted image 20240303221756.png|400]]
 
 Cuando fue [el temporal en Chile el agosto de 2023](https://es.wikipedia.org/wiki/Temporal_de_Chile_de_agosto_de_2023) el kilo de papas había aumentado exageradamente. La gente de la vega rumoreaba que eran escasas las plantaciones por las inundaciones. 
 
