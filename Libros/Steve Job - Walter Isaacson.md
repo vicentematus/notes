@@ -45,6 +45,6 @@ Wozniak/Jobs menciona (?)
 
 
 
-[^1]: [[¿Que pasa si todo es una mentira?]] 
+[^1]: [[../varios/cambios-internos/¿Que pasa si todo es una mentira?]] 
 [^2]: Steve Jobs' College Mentor Was A Drug Dealer Turned Billionaire Mining Magnate, Business Insider. https://www.businessinsider.com/steve-jobs-robert-friedland-2011-10
 [^3]: [[El pensamiento no es unilateral]]

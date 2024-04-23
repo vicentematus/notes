@@ -1,7 +1,14 @@
-Bajar node a 14 nvm use 14
+Bajar node a 14 nvm use 14.16 (mirar nvmrc)
 bajar el cli de gatsby a gatsby 3
 
 En obsidian incluir la opción de relative links.
+
+Hay que poner:
+![[Pasted image 20240421222917.png]]
+
+
+Para setupear ne local hay que poner INvesting.md
+
 
 Lo que falta es:
 

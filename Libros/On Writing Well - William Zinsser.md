@@ -35,5 +35,5 @@
 [^1]: En el contexto de un ensayo o literatura. Distinto es el objetivo si estas escribiendo un articulo periodistico, documentacion, etc. Ya que estos cumplen otro objetivo.
 [^2]: Paul Graham lo hace antes de publicar sus ensayos https://paulgraham.com/simply.html
 [^3]: David Heinemeier(DHH) también lo hace.
-[^4]: [Why You Should Read Books? | Andrew Huberman]([Neuroscientist: Why You Should Read Books? | Andrew Huberman #neuroscience #hubermanlab](https://youtube.com/shorts/_u90FXjwdm8?si=ffkeUuQkZsVoUeiR))
+[[[Neuroscientist: Why You Should Read Books? | Andrew Huberman #neuroscience #neuroscience #hubermanlab](https://youtube.com/shorts/_u90FXjwdm8?si=ffkeUuQkZsVoUeiR]])
 [^5]: Julio Cortazar dice que [es como una especie de ritmo, latido. Como el swing en el Jazz. ](https://youtube.com/clip/Ugkxz5PMi6ExRDLAzDj7QmN3mL06rMzKFQty?si=YNnIprET8ewARArX)

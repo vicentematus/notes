@@ -1,1 +1,1 @@
-Abres tus perspectivas. [[Después del miedo esta la recompensa]]
+Abres tus perspectivas. [[../varios/cambios-internos/Después del miedo esta la recompensa]]
