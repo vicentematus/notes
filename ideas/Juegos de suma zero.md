@@ -3,4 +3,9 @@
 
 Asume que hay 2 jugadores, para que una gane la otra tiene que perder. La envidia es un juego de suma zero[^1]. Si no puedo, tú no puedes tenerlo.
 
+
+[Peter Thiel en la charla On Being a Contrarian](https://youtube.com/clip/UgkxYt6b2vlsv5qokf40n8pOBaCHINWXCQuc?si=-56Al0yEWhD_sZwV): 
+ 
+> (...) In a world without growth everything becomes a zero sum game, I only get ahead  by you falling further behind, and that becomes a much nastier world.
+
 [^1]:  https://es.wikipedia.org/wiki/Mentalidad_de_cangrejo
