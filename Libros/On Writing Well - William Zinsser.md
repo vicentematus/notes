@@ -32,6 +32,56 @@
 - Las palabras son ruidos y ritmos.[^[^5]] Todo debería ser un ritmo constante, que sube y baja para mantener al lector enganchado. Por eso la importancia en el uso de las palabras.
 
 
+
+
+# 9 The Lead and the Ending
+
+- Lead: el primer parrafo de un texto.
+- Tener un lead es la parte mas importante para enganchar al lector.
+- Tiene que llamar la atención para continuar al siguiente parrafo.
+	- Si no el lector perderá el interés.
+	- Los primeros parrafos deben ser impactantes para que sigan leyendo.
+- Evitar leads genericos.
+	- Sabías que...
+	- Sabes que tiene en comun Pepito, Pepe y Pablo?
+	- Las 10 Cosas...
+- El lead es igual de importante que saber cuando cerrar la idea.
+	- Hay que tener una continuación para saber cerrar.
+	- Los lectores saben cuando estas flaqueando en no saber como ir cerrando el tema. Directamente dejan de leer.
+- Cerrar la idea debería ser una leve sorpresa y asertivo.
+- Para la no-ficción si sabes que deberías parar, para. Si has presentado todas tus ideas y has hecho el punto que querías hacer, busca por la salida mas cercana.
+- Cerrar como sorpresa es clave para generar interes en el lector.
+# 10 - Bits & Pieces
+
+- **Usar verbos activos en vez de pasivos.**
+	- Son mas directos y dan claridad.
+	- Los verbos pasivos son mas lentos y son para rellenar espacio.
+	- Ejemplo: *María* leyó el libro versus *El libro fue leído por Maria.*
+- **Los  adverbios** son innecesarios.
+	- La palabra *gran*de es redudante en: la gran mayoría, ya que *mayoría* indica *grandeza*.
+- **Los adjetivos** también en parte son innecesarios. 
+	- *La tierra café*
+	- Usa los calificadores si quieres trabajar una idea. Por ejemplo: *El cielo se empezo a poner de a poco oscuro y decidió irse*.
+- Los escritores usan estas herramientas de manera inconsciente en la escritura para hacerlo sonar mas interesante. Pero solamente hace todo mas lento.
+- **Calificadores**: elimina las palabrascomo *un poco mal*, *algo asi*, *creo*, *en cierto sentido*.
+	- No digas *me siento un poco confuso, tengo un poco de tristeza.* Dí: *Estoy confuso*. *Tengo pena*. Suena claro y fuerte.
+- Los lectores les gusta a un escritor que confía en lo que dice. No hagas las cosas mas lentas. Sé directo.
+- **La coma (,)**: usala para hacer las oraciones mas cortas.
+- **El signo de exclamación (!):** evitar usarlo. Como que obliga al lector a entender que una oración tiene una expresión fuerte.
+	- Por ejemplo: para balancear de algo pasivo a chistoso. 
+- **El punto y coma (;):** Es una leve pausa, pero es un recurso antiguo (19th).  prefiere usar la coma  o los guiones. 
+- **El guión (-):** no es elegante, pero permite amplificar una idea ejemplo: *decidimos seguir caminando - solamente quedaban 2 kilometros para poder llegar a casa.* 
+	- El guión permite añadir un pensamiento entremedio de una oración. Ejemplo: Me dijo que quería estar conmigo - toda la semana estuvo insistiendo con salir - hoy día.
+- **Dos puntos (:).** Para enumerar.
+- **Mood changers** (pero,  en cambio, todavia, en vez, entonces, pero ahora): usarlos para indicar contraste o cambios en una oracion. Es bueno usarlos para indicar al lector que habrá un cambio.
+- **Exageraciones**: huele mal. Es de noob. El lector sabe que hay una sobre-exageración y solo lo hace mas lento.
+- **Credibilidad**: fragil e importante. No exageres las cosas solo para hacerlas notar mas. Con tal que el lector lea algo que suene raro, de ahí en adelante sonará sospechoso.
+- **Escribir no es una competencia.**
+- **La solución rápida**: eliminar una palabra o oración es mas rápida que reformularla.
+- Parrafos: hacelos cortos. Leer es visual. Los parrafos cortos invitan al lector a leer. Los largos hacen que se vea amenazante.
+	- Ejemplo visual: 4 parrafos se ven faciles de leer, que 1 parrafo gigante. Es como un libro pequeño versus un libro gigante.
+	- Los escritores de no-ficción usan los parrafos como unidades de ideas. Cada parrafo tiene su estructura y forma.
+- **Reescribir**: la escritura es un proceso continuo .El primer borrador hay que botarlo. Hay que tratar de eliminar lo más posible - por que siempre uno agrega más de lo necesario. La tecla DELETE debe ser tú mejor amiga.
 [^1]: En el contexto de un ensayo o literatura. Distinto es el objetivo si estas escribiendo un articulo periodistico, documentacion, etc. Ya que estos cumplen otro objetivo.
 [^2]: Paul Graham lo hace antes de publicar sus ensayos https://paulgraham.com/simply.html
 [^3]: David Heinemeier(DHH) también lo hace.
