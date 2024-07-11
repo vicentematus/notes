@@ -4,7 +4,7 @@ bajar el cli de gatsby a gatsby 3
 En obsidian incluir la opción de relative links.
 
 Hay que poner:
-![[Pasted image 20240421222917.png]]
+![Pasted image 20240421222917](es/programacion/Pasted%20image%2020240421222917.png)
 
 
 Para setupear ne local hay que poner INvesting.md

@@ -1,5 +1,5 @@
 
-![[Pasted image 20240309134153.png]]
+![Pasted image 20240309134153](Pasted%20image%2020240309134153.png)
 
 
 Paul Graham en What You Can't say menciona
@@ -28,6 +28,6 @@ Si te tachan como *Comunista*  subele un nivel de abstraccion diciendo: *deberia
 
 Te escapas de lo que te encasillaban subiendo un nivel de abstracción, y usando palabras bonitas como eufemismos[^3].
 
-[^1]: De forma equilibrada sin dañar al ecosistema y respetando el equilibrio biologico como diría [[Humberto Maturana]]
-[^2]: Viste que ambas opiniones del Capitalista y el Comunista son compatibles? [[El pensamiento no es unilateral]]
+[^1]: De forma equilibrada sin dañar al ecosistema y respetando el equilibrio biologico como diría [Humberto Maturana](Autores/Humberto%20Maturana.md)
+[^2]: Viste que ambas opiniones del Capitalista y el Comunista son compatibles? [El pensamiento no es unilateral](ideas/El%20pensamiento%20no%20es%20unilateral.md)
 [^3]: El uso del lenguaje forma realidades.

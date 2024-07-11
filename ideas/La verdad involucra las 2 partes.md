@@ -1,11 +1,11 @@
-![[Pasted image 20240301212451.png]]
+![Pasted image 20240301212451](Pasted%20image%2020240301212451.png)
 >  Purva Paksha literally means _former view/position_. It is a tradition in the debates of [Indian Logicians](https://en.wikipedia.org/wiki/Indian_logic "Indian logic"). It involves building a deep familiarity with the opponent's point of view before criticising it, similar to the modern day device of [steelmanning](https://en.wikipedia.org/wiki/Steelmanning "Steelmanning").[^1]
 
 1 + 1 es igual a 2 es una verdad absoluta. 
 
 Ojala en las discusiones llegaramos a un acuerdo de la misma forma. Pero no es así. Hay  opiniones distintas, gente con sentimientos o resistentes al cambio. 
 
-[[En la mayoría de discusiones la gente no cambia de opinión]]
+[En la mayoría de discusiones la gente no cambia de opinión](ideas/En%20la%20mayoría%20de%20discusiones%20la%20gente%20no%20cambia%20de%20opinión.md)
 
 En una discusión para entenderla en su totalidad hay que entender ambos puntos de vista.
 

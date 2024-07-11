@@ -10,4 +10,4 @@
 	  Si es dificil, entonces es un mal diseno.
 - GO
 
-  [[index]]
+  [index](index.md)

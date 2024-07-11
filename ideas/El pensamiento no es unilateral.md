@@ -4,13 +4,13 @@ tags:
   - ideas
 ---
 
-![[Pasted image 20240229021520.png]]
+![Pasted image 20240229021520](ideas/Pasted%20image%2020240229021520.png)
 
 Los científicos también pueden ser humanistas. Los humanistas también pueden ser científicos.
 
 La intersección de las ciencias y el humanismo logra cosas impresionantes.
 
-En [[Steve Job - Walter Isaacson]], Jobs dice:
+En [Steve Job - Walter Isaacson](Libros/Steve%20Job%20-%20Walter%20Isaacson.md), Jobs dice:
 
 > "Comence a escuchar mas musica y empeze a leer mas cosas que no tuvieran que ver con la ciencia o la tecnologia (Shakespeare, Platon). Me encantaba el Rey Lear.... Otras obras favoritas eran Moby Dick y los poemas de Dylan Thomas. ..."
 > 

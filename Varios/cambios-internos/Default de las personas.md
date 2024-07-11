@@ -3,7 +3,7 @@ tags:
   - ideas
   - progress
 ---
-![[nixon-cold-war.png]]
+![nixon-cold-war](varios/cambios-internos/nixon-cold-war.png)
 *Richard Nixon apuntando el dedo a Nikita Khruschev. [Foto por Elliot Erwitt.](https://www.magnumphotos.com/newsroom/politics/elliott-erwitt-behind-the-image-the-kitchen-debate/)*
 
 Cosas que son obvias para ciertos mundos mentales, pero para otros no. 

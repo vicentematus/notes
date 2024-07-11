@@ -1,2 +1,2 @@
-![[Pasted image 20240304212542.png]]
+![Pasted image 20240304212542](Pasted%20image%2020240304212542.png)
 [Lee Sedol,](https://es.wikipedia.org/wiki/Lee_Sedol) campeón mundial de [Go](https://es.wikipedia.org/wiki/Go) contra la [IA AlphaGo de Deepmind](https://en.wikipedia.org/wiki/AlphaGo)

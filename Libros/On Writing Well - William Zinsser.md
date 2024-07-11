@@ -70,20 +70,43 @@
 - **El signo de exclamación (!):** evitar usarlo. Como que obliga al lector a entender que una oración tiene una expresión fuerte.
 	- Por ejemplo: para balancear de algo pasivo a chistoso. 
 - **El punto y coma (;):** Es una leve pausa, pero es un recurso antiguo (19th).  prefiere usar la coma  o los guiones. 
-- **El guión (-):** no es elegante, pero permite amplificar una idea ejemplo: *decidimos seguir caminando - solamente quedaban 2 kilometros para poder llegar a casa.* 
+- **El guión (-):**  permite amplificar una idea ejemplo: *decidimos seguir caminando - solamente quedaban 2 kilometros para poder llegar a casa.* 
 	- El guión permite añadir un pensamiento entremedio de una oración. Ejemplo: Me dijo que quería estar conmigo - toda la semana estuvo insistiendo con salir - hoy día.
 - **Dos puntos (:).** Para enumerar.
-- **Mood changers** (pero,  en cambio, todavia, en vez, entonces, pero ahora): usarlos para indicar contraste o cambios en una oracion. Es bueno usarlos para indicar al lector que habrá un cambio.
+- **Mood changers** (*pero,  en cambio, todavia, en vez, entonces, pero ahora)*: usarlos para indicar contraste o cambios en una oracion. Es bueno usarlos para indicar al lector que habrá un cambio.
 - **Exageraciones**: huele mal. Es de noob. El lector sabe que hay una sobre-exageración y solo lo hace mas lento.
-- **Credibilidad**: fragil e importante. No exageres las cosas solo para hacerlas notar mas. Con tal que el lector lea algo que suene raro, de ahí en adelante sonará sospechoso.
+	- Por ejemplo: *verla con otra persona me hizo sentirme tan mal que me quería morir.*
+- **Credibilidad**: fragil e importante. No exageres las cosas solo para hacerlas notar mas. Con tal que el lector algo le suene raro, de ahí en adelante sonará sospechoso.
 - **Escribir no es una competencia.**
 - **La solución rápida**: eliminar una palabra o oración es mas rápida que reformularla.
 - Parrafos: hacelos cortos. Leer es visual. Los parrafos cortos invitan al lector a leer. Los largos hacen que se vea amenazante.
 	- Ejemplo visual: 4 parrafos se ven faciles de leer, que 1 parrafo gigante. Es como un libro pequeño versus un libro gigante.
 	- Los escritores de no-ficción usan los parrafos como unidades de ideas. Cada parrafo tiene su estructura y forma.
 - **Reescribir**: la escritura es un proceso continuo .El primer borrador hay que botarlo. Hay que tratar de eliminar lo más posible - por que siempre uno agrega más de lo necesario. La tecla DELETE debe ser tú mejor amiga.
+
+
+
+# Forms
+
+## Entrevistas
+
+- Lo mas importantes es haz que la gente hable. Que cuente lo más interesante.
+- Hay que preguntar cosas que saquen la esencia de la persona.
+-  Siempre estudia el *background* de las personas antes de entrevistar. Hay cosas que deberías saber con antelación. Si no las sabes, se verá mal.
+- Aprende a citar a las personas textuales.
+	- Saca las palabras redudantes. Por ejemplo: Pepito dijo que "le gustaba leer libros antiguos". Mejor es: Me gusta leer libros antiguos. Dijo Pepito.
+- Después de recolectar la información hay que rescatar la esencia.
+
+
+## Viajes
+- La gente siempre cuenta lo obvio de los viajes, por ejemplo si fue al sur de Chile y estuvo en el campo, o que si fue a Europa y vío la torre Eiffel. Son cosas que ya estan dichas, que aburren una y otra vez. La idea es buscar la anecdota entretenida sobre el viaje, evitar lo que sabemos que es obvio. Para así poder impresionar al lector.
+	- Para ejemplos ver Jonathan Raban, revisiting the Midwestern states inundate by the river's recent massive floods; A Puerto Rican Pilmigrage, by Jack Agueros. The Right Stuff, by Tom Wolfe.
+- Destaca las cualidades del lugar que lo hagan unicos. Aislalo para poder hacerlo sonar bien.
+	- No es necesario viajar a un país extranjero, puede ser los lugares que siempre visitas y notar algún detalle que lo haga especial. Trata de encontrarlo en los patrones.
+
+
 [^1]: En el contexto de un ensayo o literatura. Distinto es el objetivo si estas escribiendo un articulo periodistico, documentacion, etc. Ya que estos cumplen otro objetivo.
 [^2]: Paul Graham lo hace antes de publicar sus ensayos https://paulgraham.com/simply.html
 [^3]: David Heinemeier(DHH) también lo hace.
-[[[Neuroscientist: Why You Should Read Books? | Andrew Huberman #neuroscience #neuroscience #hubermanlab](https://youtube.com/shorts/_u90FXjwdm8?si=ffkeUuQkZsVoUeiR]])
+[]([Neuroscientist:%20Why%20You%20Should%20Read%20Books?%20|%20Andrew%20Huberman%20#neuroscience%20#neuroscience%20#neuroscience%20#neuroscience%20#hubermanlab](https://youtube.com/shorts/_u90FXjwdm8?si=ffkeUuQkZsVoUeiR))
 [^5]: Julio Cortazar dice que [es como una especie de ritmo, latido. Como el swing en el Jazz. ](https://youtube.com/clip/Ugkxz5PMi6ExRDLAzDj7QmN3mL06rMzKFQty?si=YNnIprET8ewARArX)
