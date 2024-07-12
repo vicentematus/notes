@@ -1,6 +1,7 @@
 # Notas 
 
-Este repositorio contiene mis notas personales en markdown sobre los distintos temas que estoy estudiando. Puedes ver el deploy en vivo aca.
+Este repositorio contiene mis notas personales en markdown sobre los distintos temas que estoy estudiando. Puedes ver el deploy en vivo aca https://notas.vicentematus.cl/
+
 
 ## Como funciona esto
 
@@ -9,5 +10,5 @@ Este repositorio contiene mis notas personales en markdown sobre los distintos t
 
 ## Agradecimientos
 
-[Inspirado por el trabajo de Andy Matuschak](https://andymatuschak.org/). Al igual que su consejo que me dió cuandio le pregunté si debía empezar a tomar notas por email: "*Just get started!” is very powerful here!*".  Gracias [@agucova](https://github.com/agucova) por mostrarme su trabajo.
+[Inspirado por el trabajo de Andy Matuschak](https://andymatuschak.org/) y el consejo que me dió cuando le pregunté si debía empezar a tomar notas por email: "*Just get started!” is very powerful here!*".  También a [@agucova](https://github.com/agucova) por mostrarme su trabajo.
 
