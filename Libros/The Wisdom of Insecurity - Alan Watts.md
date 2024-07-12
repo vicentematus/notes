@@ -10,7 +10,7 @@ draft: "false"
 
 ## The Great Stream
 - Las definiciones de la realidad es relativo de quién las define.
-	- Ejemplo es Religion is false, Science is true.
+	- Ejemplo es Religion is false, []()Science is true.
 - La forma cientifica es una *verdad absoluta* que se impone contra el mundo.
 - En el proceso de definir las cosas como verdad absoluta (symbolizing) se pierde el sentido de encontrarle el sentido o disfrutar de la vida. No todo puede ser reducido a un absoluto.
 	- Ejemplo: el meme de Mickey Mouse diciendole al Pato Donald (si, lol) que el amor es solamente un conjunto de quimicos en el cerebro.
