@@ -9,9 +9,9 @@ Si le diera consejos a mi yo antiguo (doomer), le hubieran entrado por un oido y
 
 Fue el conjunto de experiencias positivas: conseguir práctica en [Platanus](https://platan.us/) cambio mi mundo mental por completo. Un sueño [^1]. Me hizo sentir que tenia un skill. Ser parte de una comunidad. Nunca antes había podido discutir de cosas techies con la gente (fuera de los ramos de la u). [Hay cosas que no tienen sentido](varios/sueños/Hay%20cosas%20que%20no%20tienen%20sentido.md).
 
-Empezar a trabajar en MACH me dio otro refuerzo positivo de mis habilidades. Literal fue un vivir un sueño otra vez. No tener dinero (sin contar el que me daba mi mamá) a poder comprar cosas para la casa es un sentimiento inexplicable.
+Empezar a trabajar en MACH me dio otro refuerzo positivo de mis habilidades. Literal fue un vivir un sueño otra vez. No tener dinero (sin contar el que me daba mi madre) a poder comprar cosas para la casa es un sentimiento inexplicable.
 
-Mediante el cuidado mi salud mental, incluyendo prácticas como el journaling extensivo pude mejorar la imagen de mi mismo. Pero es un proceso lento. Tiene que ser día a día. Hacer una introspección de si mismo.[](https://en.wikipedia.org/wiki/Carl_Jung#Shadow). 
+Mediante el cuidado de mi salud mental, incluyendo prácticas como el journaling extensivo pude mejorar la imagen de mi mismo. Pero es un proceso lento. Tiene que ser día a día. Es un proceso de años y nunca termina.
 
 [Si te pierdes, solo tú te puedes encontrar](varios/cambios-internos/Si%20te%20pierdes,%20solo%20tú%20te%20puedes%20encontrar.md)
 
