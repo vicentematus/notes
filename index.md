@@ -6,8 +6,8 @@ Hola! soy [Vicente Matus](https://www.vicentematus.cl/). Estás viendo mis notas
 [Estas notas principalmente son escritas para mí:](https://notes.andymatuschak.org/z5E5QawiXCMbtNtupvxeoEX) son una forma de expresar mi estudio o pensamientos de distintos temas. Está en progreso por lo que hay notas incompletas
 
 Puedes ver lo último que estoy estudiando/ensayos:  
-- Te recomiendo empezar por este: [Como cambié de doomer a bloomer](varios/cambios-internos/Como%20cambié%20de%20doomer%20a%20bloomer.md)
-- [Default de las personas](varios/cambios-internos/Default%20de%20las%20personas.md)
+- Te recomiendo empezar por este: [[varios/cambios-internos/Como cambié de doomer a bloomer|Como cambié de doomer a bloomer]]
+- [[varios/cambios-internos/Default de las personas|Default de las personas]]
 - [Elige tus batallas](ideas/Elige%20tus%20batallas.md)
 - [Shallow vs Deep Knowledge](varios/conocimiento/Shallow%20vs%20Deep%20Knowledge.md)
 -  [El pensamiento no es unilateral](ideas/El%20pensamiento%20no%20es%20unilateral.md)
