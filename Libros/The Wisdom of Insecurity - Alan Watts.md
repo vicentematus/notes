@@ -1,11 +1,3 @@
----
-draft: "false"
----
-
-
-- Trae ideas del culturismo oriental al pensamiento occidental. 
-- ????
-
 
 
 ## The Great Stream
