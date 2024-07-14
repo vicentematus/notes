@@ -4,7 +4,7 @@ tags:
   - ideas
 ---
 
-![Pasted image 20240229021520](ideas/Pasted%20image%2020240229021520.png)
+![Pasted image 20240229021520](steve-jobs-office.png)
 
 Los científicos también pueden ser humanistas. Los humanistas también pueden ser científicos.
 

@@ -1,4 +1,4 @@
-![Pasted image 20240301212451](Pasted%20image%2020240301212451.png)
+![Pasted image 20240301212451](martin-luther-king.png)
 >  Purva Paksha literally means _former view/position_. It is a tradition in the debates of [Indian Logicians](https://en.wikipedia.org/wiki/Indian_logic "Indian logic"). It involves building a deep familiarity with the opponent's point of view before criticising it, similar to the modern day device of [steelmanning](https://en.wikipedia.org/wiki/Steelmanning "Steelmanning").[^1]
 
 1 + 1 es igual a 2 es una verdad absoluta. 

@@ -1,4 +1,4 @@
-![trainee](trainee.png)
+![trainee](varios/cambios-internos/trainee.png)
 *Presentación de Platanus para postular a Trainee. [Puedes ver la presentación aquí](https://docs.google.com/presentation/d/1UiPcVMRNiXyKvZCWVaZLnkx6R7XtfzwY8nQ776uYOEk/edit?usp=sharing)*
 
 Es difícil saber que no tienes un camino en la vida a ser una persona con proposito. 
