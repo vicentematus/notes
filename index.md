@@ -15,6 +15,7 @@ Puedes ver lo último que estoy estudiando/ensayos:
 - [Después del miedo esta la recompensa](varios/cambios-internos/Después%20del%20miedo%20esta%20la%20recompensa.md)
 - [Patrick Collison (Stripe CEO) - Craft, Beauty, & The Future of Payments](videos/dwarkesh-patel-interviews/Patrick%20Collison%20(Stripe%20CEO)%20-%20Craft,%20Beauty,%20&%20The%20Future%20of%20Payments.md)
 - [Steve Job - Walter Isaacson](Libros/Steve%20Job%20-%20Walter%20Isaacson.md) 
+- [The Wisdom of Insecurity - Alan Watts](Libros/The%20Wisdom%20of%20Insecurity%20-%20Alan%20Watts.md)
 - [Clean Architectura Notas](Libros/Clean%20Architectura%20Notas.md)
 - [On Writing Well - William Zinsser](Libros/On%20Writing%20Well%20-%20William%20Zinsser.md)
 - [Hacer valer tu trabajo](varios/comunicacion/Hacer%20valer%20tu%20trabajo.md)
