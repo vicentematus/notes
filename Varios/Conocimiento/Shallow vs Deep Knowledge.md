@@ -8,4 +8,4 @@ Andrej Karpathy (OpenAI cofounder)[ menciona en X](https://twitter.com/karpathy/
 
 > (...)don't just believe that because something is trendy, that it's good. I'd probably go the other extreme where if... if something... if I find too many people adopting a certain idea I'd probably think it's wrong or if, you know, if... if my work had become too popular I probably would think I had to change.
 
-Mas aprendes ->  sales de tu comfort -> cambias tú visión del mundo -> cambias el [Default de las personas](varios/cambios-internos/Default%20de%20las%20personas.md)
+Mas aprendes ->  sales de tu comfort -> cambias tú visión del mundo -> cambias el [Default de las personas](Varios/cambios-internos/Default%20de%20las%20personas.md)
