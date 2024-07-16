@@ -1,3 +1,7 @@
+Recomendado por David Heinemeier Hansson (DHH) en [The five programming books that meant most to me:](https://signalvnoise.com/posts/3375-the-five-programming-books-that-meant-most-to-me)
+> If you consider programming to be a subset of writing, and I certainly do, then you would also do well to read [Elements of Style](http://www.amazon.com/Elements-Style-4th-William-Strunk/dp/0205313426/) and [On Writing Well](http://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction/dp/0060891548/). I’ve found reading those made me a better programmer as well.
+
+
 - El 80% del tiempo deberia ser eliminar palabras innecesarias
 	- Hay muchas ideas que se pueden expresar eliminando cosas que estan demas.
 	- Eliminar palabras destaca la simplicidad
