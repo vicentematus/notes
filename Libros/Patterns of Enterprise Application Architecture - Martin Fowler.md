@@ -3,7 +3,7 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 > Great inventory of many of the patterns that underpin Rails itself, as well as descriptions of many of the “new” approaches that people advocate today (like [transaction scripts](http://martinfowler.com/eaaCatalog/transactionScript.html) and [service layers](http://martinfowler.com/eaaCatalog/serviceLayer.html)). You won’t necessarily implement most of these patterns yourself, but it’s an invaluable resource to understanding the differences in architectures and why framework work the way they do. (Funny anecdote: before I created Rails, [I redrew many of the diagrams](http://martinfowler.com/eaaCatalog/) in OmniGraffle for Martin Fowler because I liked the book so much.)
 
 
-## 1 - Introduction
+## Introduction
 - Las enterprise application no son complicadas(ex. que no estan resolviendo problemas tipo: multihreading), solo que tienen mucha lógica de negocios que dependen entre sí. 
 	- Ahí la importancia de una buena arquitectura que permita hacer cambios sin tanto costo.
 	- Requieren que la data sea persistente.
@@ -33,8 +33,7 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 	  - Capacity: es la medida de cuanto puede manejar de throughput o load.  Puede ser el maximo local o el punto de inflexion en cuanto el performance empieza a bajar.
 	  - Scalability: es la medida de como agregar mas recursos (hardware) afecta el performance.
 		  - Un sistema escalable (horizontal) permite agregar mas servidores para tener una mejor performance.
-		  - Un sistema vertical upgradea el hardware para una mayor performance.
-		  - A veces es mejor agregar más servidores para tener una mejor performance, que mejorar el hardware (por mas fancy que sea).
+		  - Un sistema vertical upgradea el hardware para una mayor performance. [ThePrimeagen lo explica mucho mejor.](https://youtube.com/clip/UgkxtSUG4D0YReu1bqGrgy_nWtdUrjJHPiMc?si=3O23OsjgAVULcDpK)
 	- Cuando se construye enterprise systems, es mejor optar por la escalabilidad mas que eficiencia o capacidad.
 
 
@@ -44,7 +43,7 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 
 
 
-### Ch. 1 - Layering
+### Chapter  1 - Layering
 - La tecnica mas comun para separar los sistemas.
 	- Ejemplo las layas del network como TCP, IP, Ethernet.
 - Benefits 
