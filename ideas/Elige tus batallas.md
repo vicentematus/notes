@@ -19,15 +19,12 @@ Estas siendo clasificado con alguna definición por un grupo de gente? como: ere
 > One way to do this is to ratchet the debate up one level of abstraction. If you argue against censorship in general, you can avoid being accused of whatever heresy is contained in the book or film that someone is trying to censor. You can attack labels with meta-labels: labels that refer to the use of labels to prevent discussion. The spread of the term "political correctness" meant the beginning of the end of political correctness, because it enabled one to attack the phenomenon as a whole without being accused of any of the specific heresies it sought to suppress.
 
 
+[Ernesto Sabato](https://es.wikipedia.org/wiki/Ernesto_Sabato) dice en Antes del Fin:
 
-*DISCLAIMER: Estos ejemplos no representan mi opinión, es solo un ejercicio.**
+> El escritor debe ser un testigo insobornable de su tiempo, con coraje para decir la verdad, y levantarse contra todo oficialismo que, enceguecido por sus intereses, pierde de vista la sacralidad de la persona humana. Debe prepararse para asumir lo que la etimología de la palabra testigo le advierte: para el martirologio. Es arduo el camino que le espera: los poderosos lo calificarán de comunista por reclamar justicia para los desvalidos y los hambrientos; los comunistas lo tildarán de reaccionario por exigir libertad y respeto por la persona. En esta tremenda dualidad vivirá desgarrado y lastimado, pero deberá sostenerse con uñas y dientes. [^2]
 
-Como lo veo: por ejemplo si te tachan de manera negativa como *Capitalista* puedes decir: *todas las personas deberian tener acceso a las riquezas[^1] que nos entrega el mundo para tener un mejor bienestar de vida*. Escapaste de la definicion promedio.
 
-Si te tachan como *Comunista*  subele un nivel de abstraccion diciendo: *deberiamos velar por una mayor calidad de vida para los trabajadores de las minas de Africa*. Escapas de la definición casual y vas para un tema mas sensible.[^2]
+Si te tachan en alguna definición  subele un nivel de abstraccion.
 
-Te escapas de lo que te encasillaban subiendo un nivel de abstracción, y usando palabras bonitas como eufemismos[^3].
 
-[^1]: De forma equilibrada sin dañar al ecosistema y respetando el equilibrio biologico como diría [Humberto Maturana](Autores/Humberto%20Maturana.md)
-[^2]: Viste que ambas opiniones del Capitalista y el Comunista son compatibles? [El pensamiento no es unilateral](ideas/El%20pensamiento%20no%20es%20unilateral.md)
-[^3]: El uso del lenguaje forma realidades.
+[^2]: El escritor es encapsulado en 2 definiciones como capitalista y comunista a la vez.  [El pensamiento no es unilateral](ideas/El%20pensamiento%20no%20es%20unilateral.md)
