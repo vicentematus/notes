@@ -23,6 +23,15 @@ Recomendado por Andrew Huberman  en [How to Enhance Performance & Learning by Ap
 ## 2 - Inside the Mindsets
 - La mentalidad que tenemos es una creencia que se puede cambiar.
 - Ejemplo: *la mayoria de los niños no levanta la mano por que le da miedo estar en lo incorrecto, pero levanto la mano igual. Por que si lo que digo está mal, me corregiran y podré preguntar el por qué. Cómo puedo aprender esto...*
+- Mindsets distintos causan problemas. Una persona que quiere crecer contra una que esta fixed. El crecimiento de uno, es el sufrimiento del otro.
+- **La única forma de crecer es desafiandote constantemente. Profundizar en materias más dificiles, stretchear tu conocimiento a algo que desconoces.** Ver  [Shallow vs Deep Knowledge](Varios/conocimiento/Shallow%20vs%20Deep%20Knowledge.md) 
+	- Esto es lo más importante del libro. 
+- *Becoming is better than being.*
+- El daño que puede generar decir a alguién que es estúpido cuando pequeño es fatal. Puede tener esa idea en la cabeza y pensar para siempre que es un idiota.
+	- Se aferran al concepto de talento, o tests (IQ, personalidad) s para definir su inteligencia en el tiempo.
+- Fixed mindset busca la validación externa para definir su crecimiento.
+- *You aren't a failure until you start to blame.*
+	- Cuando ignoras tus errores, no sabrás en que mejorar.
 
 [^1]: Esto me recuerda cuando hablaba con R.E.  que los bebés no muestran frustración cuando no les salen las cosas. Por ejemplo: cuando un bebé esta aprendiendo a caminar, falla muchas veces, pero no muestra emociones de "frustración" como tal.  O cuando están jugando con bloques de construcción (legos) y tratan de encajar las piezas. No se ven frustrados por que no encaja. Más bien están motivados por la curiosidad de poder encajarlas.
 [^2]: Lo peor es automaldecirse y pensar que uno esta condenado para la eternidad.

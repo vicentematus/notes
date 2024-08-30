@@ -4,6 +4,7 @@ https://twitter.com/andy_matuschak/status/1577431850909192193
 
 La gente mas purista dice que no deberias subrayar los libros por que se ve feo y rompe la estetica.
 
+
 Pero subrayar es darle vida a algo estatico que es el texto.
 
 Si te gusta, hazlo. Si no, no.
