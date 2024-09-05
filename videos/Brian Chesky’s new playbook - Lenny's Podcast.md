@@ -1,0 +1,14 @@
+- Performance marketing es un laser que sirve para equilibrar supply/demand.
+- Muchas empresas hacen ads haciendo publicidad de su app, pero nunca educandolas sobre las cosas nuevas que están haiendo.
+	- Como Booking.com que está constantentemente con ADS y tiene un ROI alto.
+	- Esto se llama Brand Marketing.
+- Marketing as education
+	- Brian prefiere hacer marketing pero enseñandole las nuevas features al usuario, para que así sepa que el producto está cambiando y que cosas puede hacer.
+- Un Design Leader (o cualquier rol de Gerencia / Manager) debe ser experto en su dominio. Primero debe trabajar en el dominio, y después encargarse de la personas. No al revés cómo lo son en las empresas tradicionales.
+	- Casos de managers o gerencias que se encargan de gestionar a las personas, en vez de ser parte de las conversaciones de lo que se esta desarrollando.
+	- Brian hace la analogia: Si la unica responsabilidad es manejar gente, es como que un Jefe de Bomberos no sepa apagar incendios. Tienes que conocer del tema.
+- Grow slowly.
+- 5 teams should do 1 thing. Instead of 1 team doing 5 things.
+- Shippea todos los días, pero junta esas features y cuenta una historia.
+- Brian le da harto enfasis a que cada lanzamiento debe ser un capitulo de una historia.
+	- Agrupar hartas features y contarlas como historia.
