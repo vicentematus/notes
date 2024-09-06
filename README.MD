@@ -3,7 +3,7 @@
 Este repositorio contiene mis notas personales en markdown sobre los distintos temas que estoy estudiando. Ver el deploy en vivo aca https://notas.vicentematus.cl/
 
 Lo último que estoy estudiando/ensayos:  
-- Te recomiendo empezar por este: [Como cambié de doomer a bloomer](https://notas.vicentematus.cl/Varios/Cambios-Internos/Como-cambi%C3%A9-de-doomer-a-bloomer)
+- Te recomiendo empezar por este: [Como cambié de doomer a bloomer](https://notas.vicentematus.cl/Varios/cambios-internos/Como-cambi%C3%A9-de-doomer-a-bloomer)
 - [Default de las personas](https://notas.vicentematus.cl/Varios/cambios-internos/Default-de-las-personas)
 - [Los cambios culturales son dificiles](ideas/Los%20cambios%20culturales%20son%20dificiles.md)
 - [Elige tus batallas](https://notas.vicentematus.cl/ideas/Elige-tus-batallas)
