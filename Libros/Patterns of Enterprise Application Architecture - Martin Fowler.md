@@ -34,8 +34,8 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 	  - Scalability: es la medida de como agregar mas recursos (hardware) afecta el performance.
 		  - Un sistema escalable (horizontal) permite agregar mas servidores para tener una mejor performance.
 		  - Un sistema vertical upgradea el hardware para una mayor performance. [ThePrimeagen lo explica mucho mejor.](https://youtube.com/clip/UgkxtSUG4D0YReu1bqGrgy_nWtdUrjJHPiMc?si=3O23OsjgAVULcDpK)
-	- Cuando se construye enterprise systems, es mejor optar por la escalabilidad mas que eficiencia o capacidad.
-
+	- Martin Fowler dice que cuando se construye enterprise systems, es mejor optar por la escalabilidad mas que eficiencia o capacidad.
+ 
 
 ### Patterns
 - Each pattern describes a problem which occurs over and over again in our enviroment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice. 
@@ -67,5 +67,46 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 - Go all in en el server.
 - El libro habla de separar la logica entre el cliente y server, pero es la peor decisión de todas. Solo hace las cosas peor. Complexity boosters.
 
+## Chapter 2  - Organizing Domain Logic
+- [Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)
+	- La logica de negocios esta en una función[^1]
+		- . Cómo un servicio que hace las siguientes operaciones: find() , create(), get_all_users(),
+	-  ![](Libros/Pasted%20image%2020240919160718.png)
+- [Domain Model](https://martinfowler.com/eaaCatalog/domainModel.html)
+	- En vez de que una función maneje toda la lógica, se crea un objeto único que la encapsule.
+		- Por ejemplo en el ejemplo que menciona de a way of calculating revenue recognitions, se encapsula la lógica en un Dominio especifico. Existe un `Contract` , un `Product`, una `Recognition Strategy` , y un `Revenue Recognition`
+		- ![](Libros/Pasted%20image%2020240919162345.png)
+- [Table Module](https://martinfowler.com/eaaCatalog/tableModule.html)
+	- Es el punto intermedio entre Transaction Script y Domain Model. Tiene distintas funciones (insert, getProductById) y también trabaja con  Domains (`Contract`, `Product`) 
+	- ![](Libros/Pasted%20image%2020240919162649.png)
+	-  Idealmente funciona bien con un  [Record Set](https://martinfowler.com/eaaCatalog/recordSet.html)
+		- Record Set: representa los datos que se obtienen después de una consulta a una base de datos. Cómo `class RecordSet { constructor(records), getAllRecord()}` y después puedes estos datos en otra parte de la aplicación cómo `RecordSet.getAllRecords()`. 
+	- .NET y Microsoft utilizan este patrón.
+### Making a Choice
+- Siempre depende de la complejidad de la aplicación.
+- Si la lógica de negocios es simple, es menos atractiva usar el Domain Model. Ya que el effort que requiere estar encapsulando todo en un Dominio no tendrá pay backs.
+- Pero si la lógica de  negocios va aumentando, costará hacer cambios estructurales. Por eso es mejor un Domain  Model.
+- Si un equipo esta acostumbrado a un patrón, es mejor usar ese.
+- Martin Fowler expresa que es mejor un Domain Model.
+- Si ya partiste con un Transaction Script, es mejor no refactorizar a un Domain Moel. Si partiste con `Domain Model`, no vale la pena ir a un `Transaction Script`.
+- Si no tienes un Record Set, no tiene sentido usar el Patrón de Table Module
+
+## Service Layer
+- Un approach para manejar la domain logic, es dividirla en 2 layers. El Service Layer, que funciona por encima del Domain Model.  Es una interfaz para poder interactuar con el dominio / repositorio. 
+- También se refieren como `UseCase`
+- Fowler dice que solamente debería orquestar las llamadas al Dominio / Repositorio. No debería haber más logica compleja. 
+	- Ejemplo: Un Service Layer puede ser:
+	  ```
+	  class UserService { 
+	      repository = new UserRepository()
+	      getAllUsers() {
+	           return this.repository.get_users()
+	       }
+	  }
+	  ```
+	- ![](Libros/Pasted%20image%2020240919181540.png)
+	- 
 
 	
+
+[^1]: Martin Fowler utiliza la palabra procedure / routine para referirse a: *una **unidad de código** (como una función o método) que realiza todos los pasos necesarios para completar una operación de negocio de principio a fin. Esto incluye validaciones, cálculos, interacciones con la base de datos y cualquier otra lógica relacionada con esa transacción específica.*
