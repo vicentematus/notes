@@ -4,5 +4,11 @@ Resumen: Biologo Chileno, trabajo en el MIT, trae ideas de la biologia con la fi
 
 [Maturana sobre la Armonia](https://youtube.com/clip/Ugkx0QAmLG9gLmerXJrpF7Xxee_gcDNeWqKu?si=VuwASg34UNaYMkI6): 
  > (...) nuestro discurso cultural que está centrado en el juego de la lucha y de la competencia, ve al león como un predador, un destructor. El león como carnívoro y los antílopes como el vivo, en fin, constituyen una dinámica armónica. Si la armonía no quiere decir que todos los seres vivos tienen que vivir, justamente la armonía se da en que no todos los seres vivos vivan.  Porque si no esta cosa se descalabran. Se acaban todas las  coherencias ecológicas (...)
+ 
+
+
+[Maturana sobre la competencia en los niños](https://youtube.com/clip/Ugkx25FbAz7XO4FN6SbJAFNJypXVJ3IrVtkW?si=ZiMsSZad9sHJSSot)
+
+[sobre negarse a reflexionar sobre sí mismo](https://youtube.com/clip/UgkxDWdU67T9CCOJmJCXmNGR1dn5wa0XwTWT?si=8a2uBpGpGcYuWnYW)
 
 Leyendo [*La Revolución Reflexiva*](https://www.planetadelibros.cl/autor/ximena-davila/000052851) de[ Humberto Maturana](https://es.wikipedia.org/wiki/Humberto_Maturana) con [Ximena Dávila](https://www.planetadelibros.cl/autor/ximena-davila/000052851).

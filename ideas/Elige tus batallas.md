@@ -1,6 +1,4 @@
 
-![Pasted image 20240309134153](ideas/get-out-of-jail.png)
-
 
 Paul Graham en What You Can't say menciona
 
