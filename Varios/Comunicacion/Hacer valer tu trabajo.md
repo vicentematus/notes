@@ -11,6 +11,7 @@ También[ el libro Gervais Principle](https://www.ribbonfarm.com/2009/10/07/the-
 Cuando ocurrió el rework de Notion, [el CEO de Obsidian "kepano" fue directo diciendoles que les copiaron](https://x.com/kepano/status/1838906680517554617):
 > Subtlety matters — it's not that the drawings are so unique, it's their use within a specific context. I shouldn't have made the assumption that people seeing this tweet would already know theses facts: - We compete within the same narrow market - The Notion team knows me well - Hundreds of people are commenting confused about why my avatar is in their app, and wondering whether we've been acquired - They use this avatar to promote their cloud AI which I have strong feelings against - They raised hundreds of millions of dollars and think they can use this to steamroll a small bootstrapped company like ours Further, they pushed a great artist down a plagiaristic path and threw him under the bus. For a company that positions itself as creator-friendly and tasteful, it is a poor choice.
 
+[Otro hilo en thread más](https://x.com/kepano/status/1839743439577198659)
 
 
 

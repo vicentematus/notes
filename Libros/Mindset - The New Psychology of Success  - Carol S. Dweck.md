@@ -4,7 +4,7 @@ Recomendado por Andrew Huberman  en [How to Enhance Performance & Learning by Ap
 - La imagen mental que tenemos sobre nosotros define harto nuestro comportamiento frente a la vida.
 - Fixed mindset vs Growth Mindset.
 	- A growth mindset is how much you believe your basic qualities, like intelligence and talent, can be changed or developed. A fixed mindset is how much you believe your basic qualities are fixed or permanent.
-- Un experimento: a unos niños les pasan unos puzzles. A medida que los van resolviendo se vuelven mas díficiles. Uno espera que en los más complicados se frustren, pero uno de ellos dijó: "los desafíos me entretienen". [^1]
+- Un experimento: a unos niños les pasan unos puzzles. A medida que los van resolviendo se vuelven mas díficiles. Uno espera que en los más complicados se frustren, pero uno de ellos dijó: "esto me entretiene". [^1]
 - Cuando nos pasan un suceso de cosas malas, solemos autosabotearnos: *no valgo la pena, soy un idiota, etc*.
 	- No significa que seamos personas pesimistas, o tristes. Es una reacción natural.
 	- Que nos pasen cosas malas nos definen como personas
@@ -16,7 +16,7 @@ Recomendado por Andrew Huberman  en [How to Enhance Performance & Learning by Ap
 - La gente con fixed mindset es ultra-sensible al fallo, por decir pesimista.
 - Ejemplo: un profesor te dice que pases adelante y te empieza a preguntar.
 	- Si tienes fixed mindset: *todos me estan mirando, que diran si respondo mal*
-	- Growth: *Estoy aquí para aprender, si fallo aprenderé más.*
+	- Growth: *Estoy aquí para aprender, si fallo aprenderé más.*  
 
 
 
@@ -33,5 +33,15 @@ Recomendado por Andrew Huberman  en [How to Enhance Performance & Learning by Ap
 - *You aren't a failure until you start to blame.*
 	- Cuando ignoras tus errores, no sabrás en que mejorar.
 
-[^1]: Esto me recuerda cuando hablaba con R.E.  que los bebés no muestran frustración cuando no les salen las cosas. Por ejemplo: cuando un bebé esta aprendiendo a caminar, falla muchas veces, pero no muestra emociones de "frustración" como tal.  O cuando están jugando con bloques de construcción (legos) y tratan de encajar las piezas. No se ven frustrados por que no encaja. Más bien están motivados por la curiosidad de poder encajarlas.
+
+## 3 - The Truth About Ability and Accomplishment
+- Los profesores tienen un efecto profundo en la mentalidad de los alumnos. Si elogia a un alumno que es destacado en matemáticas, este encontrará el ramo entretenido. Pero si dice que las matemáticas no son para él, el alumno puede creer que es las matemáticas no son para el, o qué el profesor lo odia personalmente, o que ojos del sistema educativo es un error.
+- Cuando los alumnos repiten un curso, fallan una asignatura, o *"are left behind"*, se asume que no son inteligentes para aprender. 
+- Importante: Marva Collins realizo un experimento en Garfield High School que era una de las peores escuelas de USA.  Hay un experimento en el cual los alumnos que repetían el curso o fallaban asignatura, eran tratados como "genios" (a pesar de que eran tachados de *learning disabled*, *retrasados* o *low iq*). 
+	- Impresionantemente los alumnos empezaron a destacar en las materias que habían fallado, en 5th grade a leer libros clásicos como Shakespeare, Tolstoy, Dickinson.
+	- *Whether you measure these children by the breadth of their knowledge or by their perfomance on standardized tests, their minds had been transformed.*  
+-  El libro menciona que la gente depresiva suele sobrecompensar con determinación sus errores. Ver [Como cambié de doomer a bloomer](Varios/cambios-internos/Como%20cambié%20de%20doomer%20a%20bloomer.md)
+- Los elogios son un arma de doble filo para los niños / adolescentes. El libro menciona ejemplos de estudiantes destacados en el colegio , pero cuando llegan a la universidad y empezan a fallar, suelen empezar a fallar los ramos. Ya que están l acostumbrados a *ace the exam*. 
+
+[^1]: Esto me recuerda cuando hablaba con R.E.  que los bebés no muestran frustración cuando se equivocan. Por ejemplo: aprenden a caminar, fallan muchas veces, pero no muestran emociones de "frustración" como tal.  O cuando están jugando con Legos y tratan de encajar las piezas, no se ven frustrados por no encajarlas. Más bien están motivados por la curiosidad de poder hacerlo.
 [^2]: Lo peor es automaldecirse y pensar que uno esta condenado para la eternidad.
