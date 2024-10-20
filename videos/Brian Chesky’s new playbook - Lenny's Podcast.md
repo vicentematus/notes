@@ -12,3 +12,7 @@
 - Shippea todos los días, pero junta esas features y cuenta una historia.
 - Brian le da harto enfasis a que cada lanzamiento debe ser un capitulo de una historia.
 	- Agrupar hartas features y contarlas como historia.
+- [About setting ambitious goals and making people think different under pressure ](https://youtube.com/clip/UgkxdC0PH3zVi6z7QIJgKNM-tFlaVb2dlxXr?si=d765zV6oE8zS5Rx8)
+- Bias for action. Every meeting has an action
+- Healthy relationships, stay in touch with friends. 
+- [About being a begginer](https://youtube.com/clip/Ugkx_nO-PQgsip4vg1M7zZj8_izYuWs3QNbS?si=sAG-8Ji2dHMIYKAs)
