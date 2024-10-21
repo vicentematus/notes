@@ -61,5 +61,12 @@ Recomendado por Andrew Huberman  en [How to Enhance Performance & Learning by Ap
 - Finding #1: Aquellos con growth mindset encuentran el exito, aprendiendo y mejorando constantemente. 
 - Finding #2: Aquellos con growth mindset encuentran los momentos dificiles motivantes.
 
+
+
+
+
+# 8 - Changing Mindsets
+- La autora
+
 [^1]: Esto me recuerda cuando hablaba con R.E.  que los bebés no muestran frustración cuando se equivocan. Por ejemplo: aprenden a caminar, fallan muchas veces, pero no muestran emociones de "frustración" como tal.  O cuando están jugando con Legos y tratan de encajar las piezas, no se ven frustrados por no encajarlas. Más bien están motivados por la curiosidad de poder hacerlo.
 [^2]: Lo peor es automaldecirse y pensar que uno esta condenado para la eternidad.
