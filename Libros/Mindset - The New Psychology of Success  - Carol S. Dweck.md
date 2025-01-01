@@ -24,7 +24,7 @@ Recomendado por Andrew Huberman  en [How to Enhance Performance & Learning by Ap
 - La mentalidad que tenemos es una creencia que se puede cambiar.
 - Ejemplo: *la mayoria de los niños no levanta la mano por que le da miedo estar en lo incorrecto, pero levanto la mano igual. Por que si lo que digo está mal, me corregiran y podré preguntar el por qué. Cómo puedo aprender esto...*
 - Mindsets distintos causan problemas. Una persona que quiere crecer contra una que esta fixed. El crecimiento de uno, es el sufrimiento del otro.
-- **La única forma de crecer es desafiandote constantemente. Profundizar en materias más dificiles, stretchear tu conocimiento a algo que desconoces.** Ver  [Shallow vs Deep Knowledge](Varios/conocimiento/Shallow%20vs%20Deep%20Knowledge.md) 
+- **La única forma de crecer es desafiandote constantemente. Profundizar en materias más dificiles, stretchear tu conocimiento a algo que desconoces.** Ver  [Shallow vs Deep Knowledge](ideas/Shallow%20vs%20Deep%20Knowledge.md) 
 	- Esto es lo más importante del libro. 
 - *Becoming is better than being.*
 - El daño que puede generar decir a alguién que es estúpido cuando pequeño es fatal. Puede tener esa idea en la cabeza y pensar para siempre que no es capaz.

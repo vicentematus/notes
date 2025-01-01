@@ -9,7 +9,7 @@ Puedes ver lo último que estoy estudiando/ensayos:
 - Te recomiendo empezar por este:  [Como cambié de doomer a bloomer](Varios/cambios-internos/Como%20cambié%20de%20doomer%20a%20bloomer.md)
 - [Default de las personas](Varios/cambios-internos/Default%20de%20las%20personas.md)
 - [Elige tus batallas](ideas/Elige%20tus%20batallas.md)
-- [Shallow vs Deep Knowledge](Varios/conocimiento/Shallow%20vs%20Deep%20Knowledge.md)
+- [Shallow vs Deep Knowledge](ideas/Shallow%20vs%20Deep%20Knowledge.md)
 -  [El pensamiento no es unilateral](ideas/El%20pensamiento%20no%20es%20unilateral.md)
 - [Cosas que desconozco](Varios/Cosas%20que%20desconozco.md)
 - [Después del miedo esta la recompensa](Varios/cambios-internos/Después%20del%20miedo%20esta%20la%20recompensa.md)

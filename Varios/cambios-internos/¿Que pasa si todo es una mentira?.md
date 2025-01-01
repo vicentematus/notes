@@ -11,5 +11,4 @@ Cuando nos dicen que no podemos lograr las cosas asumimos que es verdad, o las o
 
 Cuestionarse las cosas.
 
-
 [^1]: Eduardo Bonvallet lo menciona en una entrevista: https://youtu.be/qR4AwcOsA8M
