@@ -1,3 +1,5 @@
+Referencia: Biologo Chileno, trabajo en el MIT, trae ideas de la biologia con la filosofia. Propone la sociedad como seres que trabajan en conjunto en vez de competir por los recursos, buscando la armonia con la naturaleza.
+
 Referencia [Humberto Maturana](Autores/Humberto%20Maturana.md). [Ver libro en Goodreads](https://www.goodreads.com/book/show/57608551-la-revoluci-n-reflexiva)
 
 
