@@ -11,3 +11,4 @@ Referencia [Humberto Maturana](Autores/Humberto%20Maturana.md). [Ver libro en Go
 - La deshonestidad no es un aspecto intrinsico del ser humano, si no una distorsión cultural aprendida cuando se introduce la idea de actual en beneficio propio.
 - La adicción al poder es un trastorno psíquico que lleva a una dinámica relacional que genera daño a sí mismo y a los demás.
 - Los autores proponen generar una convivencia humana y  la armonía de la naturaleza y los seres humanos.
+- 
