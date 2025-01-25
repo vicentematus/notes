@@ -4,7 +4,7 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 
 
 ## Introduction
-- Las enterprise application no son complicadas(ex. que no estan resolviendo problemas tipo: multihreading), solo que tienen mucha lógica de negocios que dependen entre sí. 
+- Fowler menciona: las enterprise applications no son complicadas(ex. que no estan resolviendo problemas tipo: multithreading), solo que tienen mucha lógica de negocios que dependen entre sí. 
 	- Ahí la importancia de una buena arquitectura que permita hacer cambios sin tanto costo.
 	- Requieren que la data sea persistente.
 		- A pesar de que hayan muchos cambios en el sistema, debe mantenerse igual.
@@ -62,10 +62,10 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 	- Domain (Business Logic): Es la parte de la aplicación que hace el calculo, las transformaciones, validaction, etc. Recibida por la parte de la presentación
 	- Data Source (comuniccation with databases):  se encarga de interactuar con la base de datos, puede ser ORM's, HTTP Clients, o la parte que hace las interacciones con la base de datos.
 - Es un desastre dejar la business logic en la UI, generando toda causa de problemas.
-- La recomendacion es dejar todo la business logic en las capas de Domain / Data Source. Dejando la capa de presentación lo más simple posible.
+- Fowler recomienda que es """mejor"""  es dejar todo la business logic en las capas de Domain / Data Source. Dejando la capa de presentación lo más simple posible.
 	- Por la misma razon que podemos manejar la logica en un servidor, sin necesidad de estar replicando nuestros cambios. Una fuente de la verdad (server). 
 - Go all in en el server.
-- El libro habla de separar la logica entre el cliente y server, pero es la peor decisión de todas. Solo hace las cosas peor. Complexity boosters.
+- ~~El libro habla de separar la logica entre el cliente y server, pero es la peor decisión de todas. Solo hace las cosas peor. Complexity boosters. (~~????)
 
 ## Chapter 2  - Organizing Domain Logic
 - [Transaction Script](https://martinfowler.com/eaaCatalog/transactionScript.html)
@@ -88,8 +88,7 @@ Recomendado por David Heinemeier Hanson (DHH) en [The five programming books tha
 - Pero si la lógica de  negocios va aumentando, costará hacer cambios estructurales. Por eso es mejor un Domain  Model.
 - Si un equipo esta acostumbrado a un patrón, es mejor usar ese.
 - Martin Fowler expresa que es mejor un Domain Model.
-- Si ya partiste con un Transaction Script, es mejor no refactorizar a un Domain Moel. Si partiste con `Domain Model`, no vale la pena ir a un `Transaction Script`.
-- Si no tienes un Record Set, no tiene sentido usar el Patrón de Table Module
+- ~~Si ya partiste con un Transaction Script, es mejor no refactorizar a un Domain Model. Si partiste con `Domain Model`, no vale la pena ir a un `Transaction Script`.~~
 
 ## Service Layer
 - Un approach para manejar la domain logic, es dividirla en 2 layers. El Service Layer, que funciona por encima del Domain Model.  Es una interfaz para poder interactuar con el dominio / repositorio. 
