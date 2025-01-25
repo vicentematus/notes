@@ -17,5 +17,7 @@ Lo encontre por el blog de https://martinfowler.com/ y algunas tier list de libr
 - Lee el error antes de saltar el codigo.
 
 ## Chapter 4
-- Design by contract: establece quien hace que cosa, responsabilidades de cada equipo.
-- 
+- Design by contract: establece quien hace que cosa, responsabilidades de cada equipo. https://en.wikipedia.org/wiki/Design_by_contract
+- Design by contract es un approach para diseñar software en el cual se definen precondiciones (guard clause, debe cumplicar ciertas condiciones), postcondiciones (esta funcion deberia devolverme un output).
+- Bastante deprecado ya que muchos problemas no simplemente se solucionan con un contrato. Los  requerimientos son caoticos.
+- Se rescatan ideas como defensive programming, tipo agregar guard clauses donde corresponde antes que llegue a otras partes.
