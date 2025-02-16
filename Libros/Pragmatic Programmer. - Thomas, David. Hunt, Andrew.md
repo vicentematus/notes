@@ -21,3 +21,13 @@ Lo encontre por el blog de https://martinfowler.com/ y algunas tier list de libr
 - Design by contract es un approach para diseñar software en el cual se definen precondiciones (guard clause, debe cumplicar ciertas condiciones), postcondiciones (esta funcion deberia devolverme un output).
 - Bastante deprecado ya que muchos problemas no simplemente se solucionan con un contrato. Los  requerimientos son caoticos.
 - Se rescatan ideas como defensive programming, tipo agregar guard clauses donde corresponde antes que llegue a otras partes.
+
+
+
+--- 
+
+## Preguntas
+
+###### Que emoción deberías tener cuidado cuando estas haciendo debugging?
+A: La necesidad de echarle la culpa a alguién del error.
+###### 
