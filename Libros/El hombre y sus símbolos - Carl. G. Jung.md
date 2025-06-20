@@ -1,4 +1,4 @@
-Este libro lo cambié por otro en la plaza perú. Además era para cachar como era el rollo psicologico o filosofico de este tipo (con Freud).
+Este libro lo cambié por otro en [la plaza perú](https://g.co/kgs/8nNsZTc). Además era para cachar como era el rollo psicologico o filosofico de este tipo (con Freud).
 ## Acercamiento al inconsciente - Ch. 1
 - Simbolos representan imagenes de nuestra cotidianidad pero que ocultan un significado consciente ( o algo asi?  debo revisar)
 - Hay simbolos que se comparten en distintas culturas. Por ejemplo, el simbolismo de los animales  como figuras religiosas (tribus indigenas), el sol y la rueda (celtas, 2da guerra mundial). Cada simbolo tiene su significado simbolico bajo ciertas condiciones.
@@ -19,3 +19,12 @@ Este libro lo cambié por otro en la plaza perú. Además era para cachar como e
 - *""Si no reflexionas sobre lo que haces, eres incapaz de explicarlo.""*
 - La  "psique" viene evolucionando desde el origen de la humanidad. Como algo biologico que evolucioan con el tiempo. Que se haya descubierto el psicoanalisis o la instrospección es algo nuevo.
 - *"Para mantener su creencia, el hombre contemporaneo paga el precio de una notable falta de instrospección.""*
+- Jung menciona *que la guerra infecta el alma humana, diciendo que sería mejor reconocer nuestra propia sombra , seriamos inmunes a toda infección.*
+- Jung dice que el comunismo es un arquetipo del Paraiso, donde todo se provee en abundancia.
+	- *En occidente también apreciamos esto. Deseamos la paz mundial, ser felices, igualdad de las personas. Aun que no lo digamos en voz alta, esto es el reino de Dios.*
+- La vida es una constante batalla entre el bien y el mal. Si no fuera así, la existencia llegaría a su fín.
+- Este conflicto constante de la vida llevo a las religiones a ser creadas: los primeros monoteistas en creer en el más allá o budistas a rechazar todo deseo terrenal.
+	- Estas ideas serían consideradas suicidas (creer en el más allá, ignorar todo deseo terrenal) si no estuvieran detrás de símbolos religiosos.
+- Jung argumenta que El hombre no puede descubrir con un telescopio el trono de Dios, por lo que asume "que no existe". Pero la creencia de algo superior es algo que nos acompaña desde el origen de la vida humana
+- Dios está más allá de la comprensión humana.
+- La misión de los símbolos religiosos es darle sentido a la vida humana.
