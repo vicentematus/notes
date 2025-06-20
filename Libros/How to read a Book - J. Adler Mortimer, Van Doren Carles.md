@@ -31,3 +31,12 @@ En contraste con la experiencia de leer un libro, el cual no cuentas con un prof
 > The authors claim that because {reading for understanding _is_ aided discovery} it requires {the same skills involved in research, i.e. “unaided” discovery: observation, memory, imagination, analysis, reflection}.
 
 
+
+
+
+---
+
+
+Q: Que significa el concepto de Unity
+
+
