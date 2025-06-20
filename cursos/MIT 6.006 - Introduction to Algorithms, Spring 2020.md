@@ -103,15 +103,28 @@ Hay 2 posibles soluciones:
 #####  Static Array
 - Si usamos insert first, eso significa que tenemos que mover todos los indices de los siguientes valores. Es una operacion costosa. 
 	- Complejidad: O(n) 
-	- si estamos cerca del inicio, eso significa que tenemos que hacer shifiting.
+	- shifting: si estamos cerca del inicio, eso significa que tenemos que hacer shifiting.
 	- allocation  / copying: tenemos que copiar el array para poder mover los indices. 
 - Bad for dynamic operations.
 ##### Linked List
+![](cursos/Pasted%20image%2020250216155848.png)
 - Pointer based structure
 - Store items in nodes. Each item store an item(item), and its index that points  to the next sequence. (pointer) 
 	- Each pointer gives the structure.
 	- Pointers son solamente indices que indican donde esta el item en memoria. 
+- El inicio de una linked list se indica por el HEAD que es un pointer que apunta al inicio. Tiene un metodo length(), y también puede augmentarse para que tenga un TAIL indicando el último elemento
+- **Las operaciones de insert_first /delete first son más eficientes que un array normal. O(1)** Ya que para cambiar el primer item, solamente hay que cambiar el HEAD Pointer al nuevo item que insertamos. ![](cursos/Pasted%20image%2020250216160046.png)
+- **get / set_at son O(i) complejidad. En el peor caso es O(n).** Ya que para conocer el item en una posicion i (digamos 10) hay que recorrer toda la linked list, siguiendo puntero por puntero.
+- **get_last**  puede ser O(1) si es que existe un TAIL que tenga un pointer al último elemento de la linked list.
 - En la realidad los linked list estan en un array en memoria.
 
+
+
+
+#### How Python implements Dynamic Arrays so called List
+- n = el numero de items en la secuencia.
+- Definimos el constraint que el size del array  = n 
+- size of array = O(n)  or some constants time N (10n, 25n)
+- 
 
 [^1]: Revisar proofs
