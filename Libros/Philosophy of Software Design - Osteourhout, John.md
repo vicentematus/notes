@@ -15,6 +15,49 @@
 
 
 
+## Information Leakage
+- Cuando muchos modulos dependen de varia información entre sí, a veces es mejor hacer un modulo más grande que contenga toda la información relacionada a este proceso. Information hiding can often be improved by making a class slightly larger.
+- Avoid exposing internal data structures as much as possible.
+- Classes should do the right thing without being explicitly askedl. Defaults are an example of this.
+- The best features are the ones you get without even knowing they exist.
+- Red Flag -Overexpose: If the API for a feature forces users to learn about others implementations, this increases cognitive load.
+- You can also hide information from within the class. Such as designing private methods within  a class so that each method encapsulates some information and hides it from the rest of the class.
+- Information hiding hace sentido cuando la información que está siendo escondida no tiene que ser usada fuera de su modulo. 
+	- If the information is needed outside of the module, then you must not hide it. 
+		- An example of this is a module that accepts a configuration parameter: class UserService(apiUrl: string).fetch(id);
+- Information hiding an deep modules are closely related.
+- if a module doesn't hide much information, then either it doesn't have much functionality or it has a complex interface.
+- When decomposing a system into modules, try not to be infleunced by the order of which operations will occur at runtime.
+
+
+## Chapter 6
+- Hay una discusion entre si programas los modulos de forma specialized or general purpose. El autor menciona que la specialization lleva a mayor complejidad, mientras que el general-purpose es más simple.
+- El desafío común cuando diseñas una clase es hacer specialized para un caso o general purpose. 
+	- Specialized: enfocarse en un problema especifico a resolver.
+		- `class EmailNotifier` con metodos cómo `sendWelcomeEmail`, `sendOnboardingEmail`
+	- General purpose: enfocarse en variedad de problemas a resolver, no aquellos que importan el día de hoy.
+		- `class EmailNotifier` con metodos como: `sendEmail` que acepta como argumento el string del email a enviar, y un objeto de configuración.
+- Make classes somewhat general-purpose
+	- Somewhat general purpose means that the implementation should reflect your current needs, but it's interface should not.
+- One of the most important elemnts of software design is determining who needs to know what, and when.
+	- Cuando los detalles son importanes, es mejor hacerlo más explicitos aún.
+- Questions to ask your self?
+	- What is the simplest interface that will cover all my current needs?
+	- In how many situations will this method be used?
+	- Is this API easy to use for my current needs?
+
+### 6.6 Push specialization updates (and downwards)
+- Es inevitable que haya código que sea specialized. Por ejemplo, para un grupo de usuarios haya una feature especifica.
+	- pero hay que dejar clara la separación del caso especifico, y el general.
+- You can push specialization  upwards by making top level classes  handlingthe special cases.
+	- Classes such as `EmailService`, `SMSService`, `PushNotificationService` (?)
+- You can push it downwards by making the low-level class handle the special cases.
+	- `NotificationService` that calls classes such as `EmailChannel SmsChannel PushChannel` . Strategy Pattern.
+
+- Eliminate specialñ cases in code: can result in code that is riddled with "if" statements, which make the code hard to understand. Delete it wherever possible.
+	- Code should handle this cases by treating it with defaults.
+- Unnecesary specialization in the form of special purpose classes or code, is a significant contributor to software complexity.
+
 ## Questions
 
 
@@ -77,6 +120,8 @@ Java file reading operations, because you need to instantiate 3 different classe
 Q: What is better a deep module or a shallow module?
 A: deep module because they hide the overall complexity.
 
+
+MISSING NOTES 
 
 
  
