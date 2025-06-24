@@ -1,0 +1,7 @@
+- Parte definiendo *El alma colectiva según Lebon*
+	- Según Lebon hay un alma colectiva que se genera en las multitudes. 
+	- Esta "alma" les hace sentir pensar y actuar de una manera distinta a cómo se sentiría  el individuo aisladamente.
+	- Lebon piensa que una multitud borra la personalidad de las personas. Lo inconsciente social surge primero.
+- "El analitico mas sutil, el mas penetrante observador, no llega nunca a descubrir sino una minima parte de los moviles inconscientes que les guían"
+- La mayor parte de nuestros actos cotidianos son efectos de móviles ocultos que se escapan a nuestro conocimiento.
+- Sugestabilidad: influencia que un individuo ejerce sobre otro.
