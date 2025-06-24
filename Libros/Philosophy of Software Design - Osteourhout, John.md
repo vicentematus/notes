@@ -58,6 +58,16 @@
 	- Code should handle this cases by treating it with defaults.
 - Unnecesary specialization in the form of special purpose classes or code, is a significant contributor to software complexity.
 
+
+# 7 - Different Layer, Different Abstraction
+- Software systems are composed in layers, where higher layers  uses the facilities provided by the lower layers.
+	- Such as TCP Protocol
+	- Such as File System abstractions
+- Redflag Passthrough methods are the ones which just call the method of another class. Ex: class TextDocument{ constructor(textArea) insertString(){ this.textArea.insertString()}}
+	- Makes classes shallow.
+	- Indicates that maybe there is a confusion over the division of responsibility between classes.
+	- When you see passtrough methods, ask yourself "Exactly which feaures and abstractions is each of these classes responsibly for?"
+	- The solution is to expose the lower level classes directly to the callers of the higher class (llama a las clases lower level nomás)
 ## Questions
 
 
