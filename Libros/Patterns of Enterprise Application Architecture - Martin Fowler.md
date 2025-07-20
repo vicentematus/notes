@@ -1,5 +1,8 @@
 Recomendado por David Heinemeier Hanson (DHH) en [The five programming books that meant most to me](https://signalvnoise.com/posts/3375-the-five-programming-books-that-meant-most-to-me)
 
+[En el podcast de Lex Fridman](https://youtube.com/clip/UgkxExWeEoBgJrAb_jDGe2Bj4MUzlxJedXWS?si=NN2Sghs8vz8OBAce)
+
+
 > Great inventory of many of the patterns that underpin Rails itself, as well as descriptions of many of the “new” approaches that people advocate today (like [transaction scripts](http://martinfowler.com/eaaCatalog/transactionScript.html) and [service layers](http://martinfowler.com/eaaCatalog/serviceLayer.html)). You won’t necessarily implement most of these patterns yourself, but it’s an invaluable resource to understanding the differences in architectures and why framework work the way they do. (Funny anecdote: before I created Rails, [I redrew many of the diagrams](http://martinfowler.com/eaaCatalog/) in OmniGraffle for Martin Fowler because I liked the book so much.)
 
 
