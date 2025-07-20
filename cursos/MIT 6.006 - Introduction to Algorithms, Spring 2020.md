@@ -125,6 +125,54 @@ Hay 2 posibles soluciones:
 - n = el numero de items en la secuencia.
 - Definimos el constraint que el size del array  = n 
 - size of array = O(n)  or some constants time N (10n, 25n)
+
+
+
+
+
+## 6. Binary Trees
+
+
+
+- Q: Que es un node?
+  A: Es un elemento del binary tree.
+- Q: Que es un item de un Binary Tree?
+  A: Es el valor de un nodo.
+- Q: Que es un parent en un binary tree?
+- A: Es la referencia al parent de un nodo
+- Q: A que se diferencia un binary tree de una linked list?
+  A: Linked list is a linear data structure, meanwhile Binary Trees are not linear and hierarchical.
+- Q: De que forma se puede llegar al mismo nodo (circular)?
+  A: node.left.parent = node
+- Q: Que es un descendant en binary tree?
+  A:  Es el hijo de un nodo.
+- Que es un ascendant en binary tree?
+  A: Es el padre de un nodo.
+- Q: What is a edge in a binary tree?
+  A: represents the connection between 2 nodes.
+- Q: Que es un leaf?
+  A: Es un nodo que no tiene hijos. (People without children)
+- Q: Que es un Subtree? 
+  A: Es un subconjunto del binary tree que contiene un node y sus descendientes.
+- Q: What is the height of a binary tree?
+  A: It counts from the bottom leaf to the root. (Reverse direction from the depth)
+- Q: Como se define subtree de un binary tree?
+  A: Being (x) a node, it's (x) and the number of descendants
+- Q: Como se define depth de un binary tree?
+  A: It's defined as the number of ancestors,  or the number of edges in the path from ((x) up to the root)
+- Q: Cual es una analogia para el depth de un binary tree?
+  A: Cómo el mar y la profundidad. De un nodo, y su profundidad.
+- Q: Cómo se define el height de un  Binary Tree?
+  A: the number of edges in the longest path from the root node to any leaf node.
+- Q: Cual es la analogia del height de un binary tree?
+  A: Cómo un arbol, la altura parte de la raiz, hacia arriba.
+- Q: Count the height of each node on the binary tree
+  ![](cursos/IMG_8909.jpg)
+- Que es el traversal order?
+- Q: Como se cuenta el travesal order?
+  A: For every node (x), count like: x.left before (x),
+							 x. right after (x)
+- En pseudocodigo es: iterate(x.left), output (x) ,iter(x.right)
 - 
 
 [^1]: Revisar proofs
