@@ -68,6 +68,41 @@
 	- Indicates that maybe there is a confusion over the division of responsibility between classes.
 	- When you see passtrough methods, ask yourself "Exactly which feaures and abstractions is each of these classes responsibly for?"
 	- The solution is to expose the lower level classes directly to the callers of the higher class (llama a las clases lower level nomás)
+
+
+
+## Chapter 10 - Define Errors out of Existence
+- Exception = Error 
+- *developers often define exceptions without considering how they will be handled.*
+- El autor argumenta que cuando los modulos tiran excepciones, aumenta la complejidad del sistema, ya que tienes que hacer código para estos casos especiales.
+	- Obviamente es más díficil que un modulo que no lanza excepciones.
+	- Para esto está el defensive programming, que checkea por las excepciones. Pero también aumenta la complejidad del código llenandolos  de try/except/catch
+- Throwing exceptions is easy; handling them is hard.
+- En conclusion: manejar o esconder excepciones depende que tan importante sean para los usuarios de tu modulo. Si es importante mostrar las exceptions, entonces levanta la exception. If not, then define errors out of existence.
+
+
+
+
+
+## Chapter 13 - Comments should describe things that aren't obvious  from the code
+
+- Like the title says: *Comments should describe things that aren't obvious  from the code*
+- Red Flag: *Comment that Repeats code*
+- Higher level comments enhance intuition
+- Interface comments should explain in higher level how it works,if it has any side effects, and any exceptions that can emanate from the method.
+- Red Flag: Implementation docmuentation contaminates interface
+- When writing comments try toput yourself in the mindset of the reader and ask yourself what are the key things he will need to know.
+
+
+
+## Chapter 14- Choosing names
+
+- Selecting names for variables, methods and other entities is one of the most underrated aspects of software design.
+- When choosing a name, try to create an image in the mind of the reader about the nature of the thing being named.
+- Red flag: Vague name: if a variable or method name is broad enough to refer to many different things, then it doesn't convey much informaton to the developer.
+- Red flag: hard to pick name: If it's hard to find a simple name for a variable or method, that's a hint that the underlying object may not have a clean design.
+	- Perhaps you are trying to use a single variable to represent several things.
+
 ## Questions
 
 
